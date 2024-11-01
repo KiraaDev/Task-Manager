@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1730460356 source:c:\users\gomer\onedrive\documents\gomer gaufo jr\cpp\consoleapp\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+
